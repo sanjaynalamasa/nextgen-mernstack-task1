@@ -129,9 +129,9 @@ function App() {
             <div>
               <h3 className="text-lg font-semibold text-gray-900 mb-4">Contact Us</h3>
               <p className="text-gray-600">
-                Email: support@auctionhub.com<br />
+                Email: sanjay4nalamasa@.com<br />
                 Phone: +91 123 456 7890<br />
-                Address: Mumbai, India
+                Address: Warangal, India
               </p>
             </div>
           </div>
